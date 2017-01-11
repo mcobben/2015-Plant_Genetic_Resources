@@ -1,2 +1,7 @@
-# 2015-Plant_Genetic_Resources
-Here we provide the data for our study 'Robustness and accuracy of Maxent niche modelling for Lactuca species distributions in light of collecting expeditions' by MMP Cobben et al.
+# Robustness and accuracy of Maxent niche modelling for Lactuca species distributions in light of collecting expeditions
+
+https://doi.org/10.1017/S1479262114000847
+
+ABSTRACT
+
+Niche modelling software can be used to assess the probability of detecting a population of a plant species at a certain location. In this study, we used the distribution of the wild relatives of lettuce (Lactuca spp.) to investigate the applicability of Maxent species distribution models for collecting missions. Geographic origin data of genebank and herbarium specimens and climatic data of the origin locations were used as input. For Lactuca saligna, we varied the input data by omitting the specimens from different parts of the known distribution area to assess the robustness of the predicted distributions. Furthermore, we examined the accuracy of the modelling by comparing the predicted probabilities of population presence against recent expedition data for the endemic Lactuca georgica and the cosmopolitan Lactuca serriola. We found Maxent to be quite robust in its predictions, although its usefulness was higher for endemic taxa than for more widespread species. The exclusion of occurrence data from the perceived range margins of the species can result in important information about local adaptation to distinct climatic conditions. We discuss the potential for enhanced use of Maxent in germplasm collecting planning.
